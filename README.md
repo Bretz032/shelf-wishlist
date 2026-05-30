@@ -1,5 +1,7 @@
 # Shelf — Wishlist de Comics, Mangás e Livros
 
+> 🔗 **Live:** [shelf-wishlist.vercel.app](https://shelf-wishlist.vercel.app/auth)
+
 Aplicação full-stack para gerenciar sua wishlist de quadrinhos, mangás e livros, com busca automática de preços e capas.
 
 ## Stack
